@@ -1,0 +1,45 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+#block backups
+printer-*.cfg
+.moonraker.conf.bck
+.moonraker.conf.bkp
+moonraker.conf.bck
+moonraker.conf.bkp
+
+#block files
+timelapse.cfg
+moonraker.cfg
+mainsail.cfg
+fluidd.cfg
