@@ -40,6 +40,6 @@ moonraker.conf.bkp
 
 #block files
 timelapse.cfg
-moonraker.cfg
+moonraker.conf
 mainsail.cfg
-fluidd.cfg
+fluidd.conf
